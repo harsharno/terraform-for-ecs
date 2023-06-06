@@ -21,5 +21,4 @@ Patient to read through all the messages that come to your screen.
 6. For support or change suggestions, please contact on below details
 
 ## Support
-Dhaval Vaitha(dhaval.vaitha@openxcell.com)
-Harsh Patel(harsh.patel@openxcell.com)
+Harsh Patel(harsh4035@gmail.com)
